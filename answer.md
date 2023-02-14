@@ -17,4 +17,13 @@
 ![image](https://user-images.githubusercontent.com/113675674/212071268-25600c1d-a0e4-4402-97a4-1291a84c77f4.png)
 
 
+## Задача 5        
+###   Разницу между копированием объектов и копированием ссылок    
+![image](https://user-images.githubusercontent.com/113675674/218751529-bc555e4f-4571-404f-a3be-01cec112ca9d.png)  
+
+
+## Задача 6          
+###   Копирование с учетом вложенности  
+![image](https://user-images.githubusercontent.com/113675674/218758520-ff9f0b16-17a5-44d7-9bd4-fc00378792b1.png)
+
 
