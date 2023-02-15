@@ -14,9 +14,5 @@
 ![image](https://user-images.githubusercontent.com/113675674/218747342-9d238d31-6cf7-472e-8580-d147d29420de.png)  
 
 **Использование библиотеки lodash**   
-![image](https://user-images.githubusercontent.com/113675674/218753197-c80ea9b6-bb4f-4876-aff8-80408370a24a.png)
-
-
-
-
+![image](https://user-images.githubusercontent.com/113675674/218753197-c80ea9b6-bb4f-4876-aff8-80408370a24a.png)  
 
