@@ -15,4 +15,3 @@
 
 **Использование библиотеки lodash**   
 ![image](https://user-images.githubusercontent.com/113675674/218753197-c80ea9b6-bb4f-4876-aff8-80408370a24a.png)  
-
