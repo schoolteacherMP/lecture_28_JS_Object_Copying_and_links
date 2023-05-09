@@ -33,4 +33,4 @@
 ###   Сравнение объектов  
 Напишите функцию compareObjects, которая сравнивает два объекта и возвращает true, если они равны, и false в противном случае.  
 мы перебираем свойства объектов obj1 и obj2 с помощью циклов for..in. Для каждого свойства мы проверяем, что оно присутствует в другом объекте и что значения этих свойств равны. Если какое-то свойство отсутствует или его значения не равны, мы возвращаем false. Если все свойства объектов совпадают, мы возвращаем true.  
-почитайте про [hasOwnProperty] (https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty)  
+почитайте про [hasOwnProperty](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty)  
